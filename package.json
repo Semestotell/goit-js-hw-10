@@ -2,6 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
+  "main": "index.js",
   "homepage": "https://github.com/Semestotell/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
@@ -12,10 +13,10 @@
     "url": "git+https://github.com/Semestotell/goit-js-hw-10"
   },
   "keywords": [],
-  "author": "Kyrylo Kozlov <kozlov.k.9527@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Semestotell/goit-js-hw-10"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "lodash.debounce": "^4.0.8",
